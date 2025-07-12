@@ -24,11 +24,11 @@ This project tackles the Kaggle “House Prices – Advanced Regression Techniqu
 
 > A playground competition with 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa. The goal is to predict each home’s final sale price.  
 
-You will learn to:
+This project is designed to learn:
 
-- Perform **creative feature engineering**  
-- Train and tune **advanced regression models** (Random Forest, XGBoost, Gradient Boosting)  
-- Evaluate on **Root-Mean-Squared-Error (RMSE)** of log-prices  
+- Performing **creative feature engineering**  
+- Training and tuning **advanced regression models** (Random Forest, XGBoost, Gradient Boosting)  
+- Evaluating on **Root-Mean-Squared-Error (RMSE)** of log-prices  
 
 ---
 
